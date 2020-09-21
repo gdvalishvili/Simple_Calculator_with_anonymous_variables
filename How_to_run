@@ -1,0 +1,12 @@
+How to run:
+
+Download following file: calculatos.cpp.
+
+go to folder (where downloading file) and run console (on windows cmd, on Linux terminal) and run command (You can use different IDE, wich you want, for example: MS Visual Studio, CODE BLocks and so on.) :
+commnad: g++ Calculator.cpp -o Calculator -Wall
+
+
+Description of the used commands:
+g++: - GNU C++ Compiler ( g++ ) is a compiler which is used to compile C++ programs. It compiles both files with extension .c and .cpp as C++ files.
+-Wall and -W: - When compiling with g++, the options -Wall and -W include extra warnings specific to C++ (the warnings relate to member functions and virtual classes). The use of these options is always recommended while developing a program.
+-o filename: - 	Sets name of the output or executable file to filename.
